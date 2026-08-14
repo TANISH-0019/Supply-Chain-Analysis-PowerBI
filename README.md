@@ -264,19 +264,19 @@ Profit Driver Analysis
 
 A Decomposition Tree is used to explore the factors contributing to overall profit.
 
-📊 Dashboard Preview
+## 📊 Dashboard Preview
+
 ### Executive Overview
-![Executive Overview](Executive_Overview.png)
+![Executive Overview](./Executive_Overview.png)
 
 ### Delivery & Logistics
-![Delivery & Logistics](Delivery_Logistics.png)
+![Delivery & Logistics](./Delivery_Logistics.png)
 
 ### Product & Sales Analysis
-![Product & Sales Analysis](Product_Sales_Analysis.png)
+![Product & Sales Analysis](./Product_Sales_Analysis.png)
 
 ### Customer Analysis
-![Customer Analysis](Customer_Analysis.png)
-
+![Customer Analysis](./Customer_Analysis.png)
 🔍 Key Business Questions Answered
 
 The dashboard helps answer questions such as:
