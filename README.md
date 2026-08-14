@@ -214,6 +214,7 @@ Profit trends
 Category performance
 Delivery status
 Overall business performance
+
 2️⃣ Delivery & Logistics
 
 This page focuses on supply chain operational and delivery performance.
@@ -264,13 +265,17 @@ Profit Driver Analysis
 A Decomposition Tree is used to explore the factors contributing to overall profit.
 
 📊 Dashboard Preview
-Executive Overview
+### Executive Overview
+![Executive Overview](Executive_Overview.png)
 
-Delivery & Logistics
+### Delivery & Logistics
+![Delivery & Logistics](Delivery_Logistics.png)
 
-Product & Sales Analysis
+### Product & Sales Analysis
+![Product & Sales Analysis](Product_Sales_Analysis.png)
 
-Customer Analysis
+### Customer Analysis
+![Customer Analysis](Customer_Analysis.png)
 
 🔍 Key Business Questions Answered
 
@@ -345,6 +350,7 @@ Power Query	Data cleaning and transformation
 DAX	Measures and KPI calculations
 Data Modeling	Star-schema design and relationships
 CSV	Source transactional data
+
 📁 Repository Structure
 Supply-Chain-Analysis-PowerBI/
 │
@@ -366,6 +372,7 @@ KPI Development
 Data Analysis
 Business Analysis
 Interactive Dashboard Development
+
 📌 Project Outcome
 
 The project transforms raw supply chain transaction data into an interactive Business Intelligence solution that provides a consolidated view of sales, profitability, delivery operations, products, and customers.
